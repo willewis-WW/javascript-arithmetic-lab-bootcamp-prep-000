@@ -3,18 +3,18 @@ function add(x, y) {
 }
 
 
-function subtract() {
-  
+function subtract(x, y) {
+  return x - y
 }
 
 
-function multiply() {
-  
+function multiply(x, y) {
+  return x * y
 }
 
 
-function divide() {
-  
+function divide(x, y) {
+  return x / y
 }
 
 
